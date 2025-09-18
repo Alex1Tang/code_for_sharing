@@ -18,7 +18,7 @@ We provide the following simulated array received signals with two SNRs for algo
 
 2. receivedArrayData-5dB.mat : Simulated array received data with -5dB SNR
 
-YUsed: array received data with size of  M*T*fft_num_use, 
+YUsed: array received data with size of  M* T* fft_num_use, 
 
 where  
 
