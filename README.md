@@ -8,7 +8,7 @@ Description:
 
 testAL1.m ： 		main function
 
-SBLIBP.m :      function of our algorithm
+SBLIBP.m :          function of our algorithm
 
 %%%%%%
 
@@ -22,11 +22,11 @@ YUsed: array received data with size of  M* T* fft_num_use,
 
 where  
 
-													M: the number of array elements.
+				M: the number of array elements.
                           
-													T:  the number of snapshots
+			    T:  the number of snapshots
                           
-													fft_num_use:  the number of frequency points. The monitored frequency band is 400-2000 Hz                 
+				fft_num_use:  the number of frequency points. The monitored frequency band is 400-2000 Hz                 
 
 %%%%%%%
 
